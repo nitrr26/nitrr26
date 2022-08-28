@@ -1,4 +1,4 @@
-### Hi there 👋 I am Karishma Dahariya
+### Hi there 👋 
 
 <!--
 **nitrr26/nitrr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
